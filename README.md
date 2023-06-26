@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello there 👋
+
+Welcome to my GitHub account! Here, you'll find a collection of my open-source projects, contributions, and repositories that showcase my skills and experience as a full-stack developer.
+
+I'm deeply passionate about open-source software and the power of collaboration within the developer community.I actively contribute to various projects and engage with other developers to create innovative solutions.
+
+In addition to contributing code, I also utilize my GitHub account as a platform for sharing knowledge. I regularly publish informative articles, tutorials, and documentation related to my projects and technologies i work with; in my <a href="https://medium.com/@ehsan-movaffagh">medium</a> account.
+
 
 <!--
 **Ehsan200/Ehsan200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
